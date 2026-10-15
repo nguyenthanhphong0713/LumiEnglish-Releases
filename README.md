@@ -2,6 +2,9 @@
 
 A desktop application designed for passive English reflex learning through smart notifications, text-to-speech support, and interactive practice modes.
 
+<img width="1085" height="730" alt="image" src="https://github.com/user-attachments/assets/4b9f76b3-f51f-4d71-87c5-28aba9fede1f" />
+
+
 ## Key Features
 
 ### 1. Passive & Timed Pop-up Learning
